@@ -1,3 +1,3 @@
 # igit
 
-AUla de introdução ao GIT
+Aula de introdução ao GIT
